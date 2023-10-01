@@ -1,0 +1,9 @@
+/node_modules
+/dist
+/public
+/.idea/
+.iml
+.json
+.html
+
+npm-debug.log*
